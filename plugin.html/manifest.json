@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "#Hamsa",
+  "description": "A way to practice conscious buying by comparing your online shopping with handicraft products and making the best buy.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "hamsa.png",
+    "default_popup": "innovate.html",
+    "matches": ["http://*/*", "https://*/"]
+  }
+}

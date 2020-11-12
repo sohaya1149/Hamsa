@@ -1,0 +1,39 @@
+body{
+  background-color: white;
+
+}
+a{
+  text-decoration:none;
+  background-color: #FFEEA3; /* Green */
+  border: none;
+  color: #7E2571;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+
+}
+
+#heading{
+  background-color:#FFA500;
+  color:white;
+  padding:10px;
+}
+
+#information {
+  background-color:white;
+  width:300px;
+  padding:10px;
+}
+
+#button {
+  background-color:#7E2571;
+  width:350px;
+  color:white;
+  text-align:center;
+  padding:10px;
+}
